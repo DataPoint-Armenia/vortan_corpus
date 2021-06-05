@@ -1,6 +1,6 @@
 # vortan_corpus
 
-A collection of corpora for the vortan.
+A collection of corpora for vortan.
 
 ## Processed
 
