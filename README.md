@@ -2,6 +2,13 @@
 
 A collection of corpora for vortan.
 
+## Dataset
+
+- [uni_freq_hy_wiki.txt](/dataset/uni_freq_hy_wiki.txt)
+  - Unigram frequencies generated from [hy_wiki.txt](/processed/hy_wiki.txt)
+- [bi_freq_hy_wiki.txt](/dataset/bi_freq_hy_wiki.txt)
+  - Bigram frequencies generated from [hy_wiki.txt](/processed/hy_wiki.txt)
+
 ## Processed
 
 - [hy_wiki.txt](/processed/hy_wiki.txt)
