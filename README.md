@@ -7,16 +7,16 @@ A collection of corpora for vortan.
 ### Eastern
 
 - [uni_freq_wiki_eastern.txt](/dataset/uni_freq_wiki_eastern.txt)
-  - 171,038 unigram frequencies generated from [wiki_eastern.txt](/processed/wiki_eastern.txt)
+  - 171,038 unigram frequencies generated from [wiki_eastern.txt](/processed/wiki_eastern.txt) using the [vortan_tools](https://github.com/DataPoint-Armenia/vortan_tools) scripts.
 - [bi_freq_wiki_eastern.txt](/dataset/bi_freq_wiki_eastern.txt)
-  - 1,007,324 bigram frequencies generated from [wiki_eastern.txt](/processed/wiki_eastern.txt)
+  - 1,007,324 bigram frequencies generated from [wiki_eastern.txt](/processed/wiki_eastern.txt) using the [vortan_tools](https://github.com/DataPoint-Armenia/vortan_tools) scripts.
 
 ### Western
 
 - [uni_freq_wiki_western.txt](/dataset/uni_freq_wiki_western.txt)
-  - 48,634 unigram frequencies generated from [wiki_western.txt](/processed/hy_wiki_western.txt)
+  - 48,634 unigram frequencies generated from [wiki_western.txt](/processed/wiki_western.txt) using the [vortan_tools](https://github.com/DataPoint-Armenia/vortan_tools) scripts.
 - [bi_freq_wiki_western.txt](/dataset/bi_freq_wiki_western.txt)
-  - 144,228 bigram frequencies generated from [wiki_western.txt](/processed/wiki_western.txt)
+  - 144,228 bigram frequencies generated from [wiki_western.txt](/processed/wiki_western.txt) using the [vortan_tools](https://github.com/DataPoint-Armenia/vortan_tools) scripts.
 
 ## Processed
 
